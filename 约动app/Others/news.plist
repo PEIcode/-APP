@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>5</string>
+		<key>title</key>
+		<string>工大运动会</string>
+		<key>look</key>
+		<string>1112</string>
+		<key>com</key>
+		<string>1321</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5</string>
+		<key>title</key>
+		<string>CCUT上了CCTV</string>
+		<key>look</key>
+		<string>1234</string>
+		<key>com</key>
+		<string>123</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5</string>
+		<key>title</key>
+		<string>信息院举办篮球赛</string>
+		<key>look</key>
+		<string>540</string>
+		<key>com</key>
+		<string>623</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5</string>
+		<key>title</key>
+		<string>数字媒体技术系组织比赛</string>
+		<key>look</key>
+		<string>123</string>
+		<key>com</key>
+		<string>213</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5</string>
+		<key>title</key>
+		<string>大学生创新创业比赛</string>
+		<key>look</key>
+		<string>12</string>
+		<key>com</key>
+		<string>123</string>
+	</dict>
+</array>
+</plist>
