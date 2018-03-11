@@ -1,0 +1,12 @@
+dependencies: \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-prefix.pch \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h \
+  /Users/sunnypei/Desktop/大创/代码/约动app/约动app/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
